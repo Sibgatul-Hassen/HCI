@@ -28,10 +28,14 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload site artifact
+      - name: Verify site entry point
+        shell: bash
+        run: test -f ./index.html
+
+      - name: Upload repository root
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ./
 
       - name: Deploy
         id: deployment
