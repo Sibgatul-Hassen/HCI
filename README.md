@@ -1,4 +1,4 @@
-# Privacy Privacy Notice — Research Prototype
+# bKash Privacy Notice — Research Prototype
 
 [![Prototype Preview](./preview.png)](https://www.figma.com/proto/gV3XI8qkRSyHQSLaQJfhPp/Untitled?node-id=1-3549&m=draw&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
@@ -18,6 +18,15 @@ bKash product, screen, policy, or endorsement**.
 - [`RESEARCH.md`](./RESEARCH.md) — the research description, study framework,
   findings status, and evaluation plan.
 - [`LICENSE`](./LICENSE) — the repository’s copyright and usage terms.
+
+## Published site
+
+The static prototype is published through GitHub Pages:
+
+**[Open the live site](https://sibgatul-hassen.github.io/HCI/)**
+
+Every push to `main` deploys the repository through the GitHub Pages workflow.
+The first deployment may take a few minutes to become available.
 
 ## Prototype links
 
