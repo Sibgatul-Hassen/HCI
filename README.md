@@ -21,12 +21,18 @@ bKash product, screen, policy, or endorsement**.
 
 ## Published site
 
-The static prototype is published through GitHub Pages:
+The static prototype is published through GitHub Pages. The page embeds the
+interactive Figma **prototype** rather than the editable Figma design file:
 
 **[Open the live site](https://sibgatul-hassen.github.io/HCI/)**
 
 Every push to `main` deploys the repository through the GitHub Pages workflow.
 The first deployment may take a few minutes to become available.
+
+If Figma displays a login prompt, open the prototype in Figma, choose
+**Share**, and set general access to **Anyone with the link — can view**. An
+iframe cannot override a private Figma file or an organization-only sharing
+policy.
 
 ## Prototype links
 
