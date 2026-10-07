@@ -1,4 +1,4 @@
-# bKash Privacy Notice — Research Prototype
+# Privacy Privacy Notice — Research Prototype
 
 [![Prototype Preview](./preview.png)](https://www.figma.com/proto/gV3XI8qkRSyHQSLaQJfhPp/Untitled?node-id=1-3549&m=draw&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
@@ -15,6 +15,8 @@ bKash product, screen, policy, or endorsement**.
 - [`index.html`](./index.html) — a lightweight entry page that embeds the Figma
   design prototype.
 - [`preview.png`](./preview.png) — a static preview used by this README.
+- [`RESEARCH.md`](./RESEARCH.md) — the research description, study framework,
+  findings status, and evaluation plan.
 - [`LICENSE`](./LICENSE) — the repository’s copyright and usage terms.
 
 ## Prototype links
